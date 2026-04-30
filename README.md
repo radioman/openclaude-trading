@@ -1,6 +1,6 @@
-# OpenClaude Trading Hub
+# OpenClaw Trading Hub
 
-Welcome to OpenClaude Trading Hub — your free AI-powered trading and automation platform.
+Welcome to OpenClaw Trading Hub — your free AI-powered trading and automation platform.
 
 Our mission is simple: help traders and businesses grow with advanced automation, AI-powered signals, and high-performance trading tools.
 
@@ -21,7 +21,7 @@ Advanced strategy analysis with real-time market signals designed to improve dec
 🎁 Free Access & Support
 No unnecessary complexity — simple, scalable, and powerful solutions built for real trading environments.
 
-## Why OpenClaude Trading Hub?
+## Why OpenClaw Trading Hub?
 
 * Trading bot development expertise
 * AI-driven strategy support
@@ -36,5 +36,5 @@ Trading should be smarter, faster, and more automated.
 
 We believe strong systems create strong results. Our goal is to build reliable tools that reduce manual work, improve execution, and support long-term success.
 
-Join OpenClaude Trading Hub and build smarter with automation.
+Join OpenClaw Trading Hub and build smarter with automation.
 If you have any Question, Contact to me on telegram: @OCtradinghubofficial
